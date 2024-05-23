@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @ParvaMehta life long lerner ,i am 20 and right now learning coding and more also in different fields 
-- 👀 I’m interested in reading, travelling, dancing , music, and photography
-- 🌱 I’m currently learning ...HTML,C, Psychology and CS50X free ware and also Hr mnagemapt 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mehtaparva@outlook.com
-- 😄 Pronouns: ...Parv he/him
-- ⚡ Fun fact: ...I love eating icecreams, recently i was searching for free icecream in indian, i got ans: Error404 Earr hehe!
+### Hi there 👋, I’m @ParvaMehta
 
-<!---
-ParvaMehta/ParvaMehta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning HTML, C, Psychology, CS50X, and HR Management.
+- 👀 I’m interested in reading, traveling, dancing, music, and photography.
+- 😄 Pronouns: Parv (he/him)
+- 📫 How to reach me: [mehtaparva@outlook.com](mailto:mehtaparva@outlook.com)
+- ⚡ Fun fact: I love eating ice cream. Recently, I was searching for free ice cream in India, and I got the answer: Error 404 😂
+
+<!--
+**ParvaMehta/ParvaMehta** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
