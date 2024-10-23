@@ -12,6 +12,7 @@
 - 🔍On-Going Audit Course: Google IT Support Professional 
 - - 🔍On-Going Audit : Microsoft IT Support Certificate
   - - 🔍On-Going Audit : AWS Cloud Support Accociate
+      (interested: Work As Health-Care IT Support |  IT Support)
       
     
 <!--
