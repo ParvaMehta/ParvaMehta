@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m @ParvaMehta 
 
 -✨ Formally working as IT Support Specialist | System Admin IT Infra-services Intern |
-- 🌱 I’m currently learning HTML, C, Psychology, CS50X, and HR Management
+- 🌱 I’m currently learning vertualized Computing, Computer networking, Psychology, CS50X, and HR Management
 - 👀 I’m interested in reading, traveling, dancing alone, music, and photography.
 - ⚡Education :  Bachelor of Computer Applications (BCA)  (infrastructure management)
 - 😄 Pronouns: Parv (he/him)
