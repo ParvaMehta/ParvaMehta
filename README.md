@@ -1,8 +1,8 @@
 ### Hi there 👋, I’m @ParvaMehta 
 
 -✨ Formally working as IT Support Specialist | System Admin IT Infra-services Intern |
-- 🌱 I’m currently learning vertualized Computing, Computer networking, Psychology, CS50X, and HR Management
-- 👀 I’m interested in reading, traveling, dancing alone, music, and photography.
+- 🌱 I’m currently learning vertualized Computing, Computer networking,Behavioral psychology, CS50X, and HR Management
+- 👀 I’m interested in reading, traveling, dancing alone, music, and photography,
 - ⚡Education :  Bachelor of Computer Applications (BCA)  (infrastructure management)
 - 😄 Pronouns: Parv (he/him)
 - 📫 How to reach me: parvamtws@gmail.com
@@ -12,6 +12,7 @@
 - 🔍On-Going Audit Course: Google IT Support Professional 
 - - 🔍On-Going Audit : Microsoft IT Support Certificate
   - - 🔍On-Going Audit : AWS Cloud Support Accociate
+    - 🔍On-Going Audit  Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
       (interested: Work As Health-Care IT Support |  IT Support)
       
     
