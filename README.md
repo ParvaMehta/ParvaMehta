@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m @ParvaMehta 
 
--✨ Formally working as IT Support Specialist | System Admin IT Infra-services Intern |
+-✨ Formally working as IT Support intern | Infra-services Intern |
 - 🌱 I’m currently learning vertualized Computing,Computer networking ,Behavioral psychology,CS50X 2024 HarvardX, and HR Management
 - 👀 I’m interested in reading, traveling, dancing alone, music, and photography,
 - ⚡Education :  Bachelor of Computer Applications (BCA)  (infrastructure management)
