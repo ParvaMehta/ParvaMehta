@@ -7,13 +7,7 @@
 - 😄 Pronouns: Parv (he/him)
 - 📫 How to reach me: parvamtws@gmail.com
 - ⚡ Fun fact: I love eating ice cream. Recently, I was searching for free ice cream in India, and I got the answer: Error 404 😂
- (Open to Work As IT Support Individual) | Networking | Software | Hardware | Support |  )
-(Activly in learning and achivening these skills and archiving those   
-- 🔍On-Going Audit Course: Google IT Support Professional 
-- - 🔍On-Going Audit : Microsoft IT Support Certificate
-  - - 🔍On-Going Audit : AWS Cloud Support Accociate
-    - 🔍On-Going Audit  Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
-      (interested: Work As Health-Care IT Support |  IT Support)
+
       
     
 <!--
